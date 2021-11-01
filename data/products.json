@@ -1,0 +1,178 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone3.jpeg",
+            "price": 49999,
+            "category": "All Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Boat TS-900",
+            "image": "./images/products/headphone/headphone2.jpeg",
+            "price": 2999,
+            "category": "All Products"
+        },
+        {
+            "id": 4,
+            "title": "Apple iPhone 11 Pro",
+            "image": "./images/products/iphone/iphone2.jpeg",
+            "price": 61999,
+            "category": "All Products"
+        },
+        {
+            "id": 8,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone4.jpeg",
+            "price": 49990,
+            "category": "All Products"
+        },
+        {
+            "id": 5,
+            "title": "Boat TS-800",
+            "image": "./images/products/headphone/headphone3.jpeg",
+            "price": 2199,
+            "category": "All Products"
+        },
+
+        {
+            "id": 7,
+            "title": "MARSHALL ZQ-467",
+            "image": "./images/products/headphone/headphone4.jpeg",
+            "price": 3659,
+            "category": "All Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone5.jpeg",
+            "price": 58999,
+            "category": "All Products"
+        },
+        {
+            "id": 11,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone6.jpeg",
+            "price": 3199,
+            "category": "All Products"
+        },
+        {
+            "id": 13,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone6.jpeg",
+            "price": 55999,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone7.jpeg",
+            "price": 3199,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone5.jpeg",
+            "price": 3299,
+            "category": "All Products"
+        },
+        {
+            "id": 15,
+            "title": "Sony WX-120",
+            "image": "./images/products/headphone/headphone8.jpeg",
+            "price": 2799,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Samsung Galaxy M31",
+            "image": "./images/products/sumsung/samsung6.jpeg",
+            "price": 14999,
+            "category": "All Products"
+        },
+        {
+            "id": 17,
+            "title": "Samsung Galaxy M51",
+            "image": "./images/products/sumsung/samsung5.jpeg",
+            "price": 17999,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone1.jpeg",
+            "price": 49999,
+            "category": "All Products"
+        },
+        {
+            "id": 18,
+            "title": "Sony WX-120",
+            "image": "./images/products/headphone/headphone9.jpeg",
+            "price": 1999,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Samsung Galaxy A17s",
+            "image": "./images/products/sumsung/samsung4.jpeg",
+            "price": 27999,
+            "category": "All Products"
+        },
+        {
+            "id": 19,
+            "title": "Gionee RS-450",
+            "image": "./images/products/headphone/headphone10.jpeg",
+            "price": 2199,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Boat TW-900",
+            "image": "./images/products/headphone/headphone1.jpeg",
+            "price": 2699,
+            "category": "All Products"
+        },
+        {
+            "id": 24,
+            "title": "Samsung Galaxy A17s",
+            "image": "./images/products/sumsung/samsung2.jpeg",
+            "price": 26999,
+            "category": "All Products"
+        },
+        {
+            "id": 21,
+            "title": "Boat CD-560",
+            "image": "./images/products/headphone/headphone11.jpeg",
+            "price": 2799,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "Samsung Galaxy M31",
+            "image": "./images/products/sumsung/samsung1.jpeg",
+            "price": 14999,
+            "category": "All Products"
+        },
+        {
+            "id": 22,
+            "title": "Samsung Galaxy M21",
+            "image": "./images/products/sumsung/samsung3.jpeg",
+            "price": 12999,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "Boat RS-700",
+            "image": "./images/products/headphone/headphone12.jpeg",
+            "price": 2299,
+            "category": "All Products"
+        }
+
+    ]
+}
